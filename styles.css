@@ -1,0 +1,24 @@
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(156, 223, 235);
+}
+
+li {
+  list-style: none;
+  border: 1px solid;
+  padding: 1rem;
+  background-color: rgb(241, 66, 148);
+}
+
+button{
+  background-color: rgb(187, 2, 211);
+  border-color: rgb(43, 233, 43);
+}
+
+button:hover{
+  border-color: blue;
+  cursor: pointer;
+}
